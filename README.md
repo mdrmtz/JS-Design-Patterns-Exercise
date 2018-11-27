@@ -21,12 +21,12 @@ Focus on these commonly used patterns:
 
 ### Extra points:
 
-- [x] Include 1 to 3 other patterns of your liking.
+- [] Include 1 to 3 other patterns of your liking.
 - [x] Create unit tests for the code you write.
 - [x] Include a README file with useful information about your exercises.
 - [x] Publish your code on a public repo like Github, Bitbucket, etc OR in a JS code sandbox like JsFiddle, JSBin, etc.
 
-## Module
+## [Module](https://github.com/mdrmtz/JS-Design-Patterns-Exercise/tree/master/module)
 ## Observer
-## Prototype
-## Singleton
+## [Prototype](https://github.com/mdrmtz/JS-Design-Patterns-Exercise/tree/master/prototype)
+## [Singleton](https://github.com/mdrmtz/JS-Design-Patterns-Exercise/tree/master/singleton)
