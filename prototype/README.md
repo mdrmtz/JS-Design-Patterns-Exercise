@@ -17,7 +17,8 @@
     - Boss (of type Employee)
 
 ## Extra points:
-Include a version of the exercise using the revealing prototype pattern.
+
+- [x] Include a version of the exercise using the revealing prototype pattern.
 
 # Evaluation Criteria
 

@@ -6,7 +6,7 @@
   - Example of an output: `'called the isTooTall() method'`
 - The module should be able to be consumed and used by global accessors.
 ## Extra points:
-Include a version of the exercise using the revealing module pattern.
+- [x] Include a version of the exercise using the revealing module pattern.
 
 # Evaluation Criteria
 
@@ -24,7 +24,11 @@ In JavaScript, the Module pattern is used to further emulate the concept of clas
 
 The problem defined  Chair, Wheel, WheelChair and Battery objects.
 Declaring a module for each element:
-  - ChairModule, WheelModule, BatteryModule, WheelChairModule, LogModule
+  - ChairModule
+  - WheelModule
+  - BatteryModule
+  - WheelChairModule
+  - LogModule
 
 For Chair and WheelModule will use LogModule to show how augment modules could be use.
 
