@@ -27,3 +27,5 @@ Declaring a module for each element:
   - ChairModule, WheelModule, BatteryModule, WheelChairModule, LogModule
 
 For Chair and WheelModule will use LogModule to show how augment modules could be use.
+
+Inside of the extra folder there is a simple example of the use of the pattern.

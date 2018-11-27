@@ -27,3 +27,5 @@ import { Injectable } from '@angular/core';
 export class UserService {
 }
 ```
+
+Inside of the extra folder there is a simple example of the use of the pattern.

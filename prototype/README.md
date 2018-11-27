@@ -39,3 +39,6 @@ An example of where the Prototype pattern is useful is the initialization of bus
 
 Solution use two approaches , one using `prototype` and `call` for create Contractor & Employee objects.
 2nd using JavaScript classes, introduced in ECMAScript 2015, are primarily syntactical sugar over JavaScript's existing prototype-based inheritance.
+
+
+Inside of the extra folder there is a simple example of the use of the pattern.
